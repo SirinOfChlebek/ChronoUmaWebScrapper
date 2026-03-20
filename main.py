@@ -9,7 +9,7 @@ import time
 
 driver = uc.Chrome()
 
-url = "https://chronogenesis.net/club_profile?circle_id=421521758355"
+url = "insert chrono url here!"
 driver.get(url)
 time.sleep(10)
 
