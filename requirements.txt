@@ -1,0 +1,4 @@
+gspread==6.2.1
+protobuf==7.34.0
+selenium==4.41.0
+undetected_chromedriver==3.5.5
